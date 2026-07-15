@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables (Credentials)
+.env
+backend/.env
+backend/uploads/
+
+# Build outputs
+dist/
+build/
+.npm/
+
+# IDE/System files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
